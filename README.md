@@ -17,3 +17,5 @@ Este usuario por defecto se configura en la clase DataLoader que se encuentra en
 
 El diagrama de la solucion se encuentra en la raís del proyecto y se llama:
     "diagrama_solucion.png"
+
+La configuración para la conexión con la base de datos se agrega en el archivo "application.properties".
